@@ -326,9 +326,9 @@ except KeyError:
 try:
     IMAGE_URL = getConfig('IMAGE_URL')
     if len(IMAGE_URL) == 0:
-        IMAGE_URL = 'https://i.ytimg.com/vi/wwzBUsh89CA/maxresdefault.jpg'
+        IMAGE_URL = 'https://imagetot.com/images/2021/08/27/bacf4c5e089011dc443e1e8e3680e63a.jpg'
 except KeyError:
-    IMAGE_URL = 'https://i.ytimg.com/vi/wwzBUsh89CA/maxresdefault.jpg'
+    IMAGE_URL = 'https://imagetot.com/images/2021/08/27/bacf4c5e089011dc443e1e8e3680e63a.jpg'
 
 IGNORE_PENDING_REQUESTS = False
 try:
