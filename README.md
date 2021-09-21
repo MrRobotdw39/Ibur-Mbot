@@ -143,10 +143,17 @@ Three buttons are already added of Drive Link, Index Link, and View Link, you ca
 
 # Contact Me
 
-[Telegram](https://t.me/SiamBillah72)
+- [Telegram](https://t.me/SiamBillah72).
+- [Facebook](https://facebook.com/SiamBillah).
+- [Twitter](https://twitter.com/SiamBillah).
+- [Linkedin](https://www.linkedin.com/in/SiamBillah).
 
 # Credits
 
-All Credits Goes to:
+Credits Goes to:
 
-[Qureshi Abraham](https://t.me/SiamBillah72)
+- [Qureshi Abraham](https://t.me/SiamBillah72).
+- Nobita
+- Slam-MirrorBot
+- &
+- Trick
