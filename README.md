@@ -1,4 +1,4 @@
-[![Qureshi](https://i.ytimg.com/vi/wwzBUsh89CA/maxresdefault.jpg)](https://t.me/SiamBillah72)
+[![Qureshi](https://imagetot.com/images/2021/08/27/bacf4c5e089011dc443e1e8e3680e63a.jpg)](https://t.me/SiamBillah72)
 
 # Qureshi Mirror Bot
 # Owner [Qureshi Abraham](https://t.me/SiamBillah72)
